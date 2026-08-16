@@ -1,0 +1,7 @@
+.vscode
+all_json
+audios_mp3
+videos
+.env
+prompt.txt
+response.txt
